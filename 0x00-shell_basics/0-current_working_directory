@@ -1,2 +1,7 @@
+bash
 #!/bin/bash
+
+
+#Print the absolute path name of the working directory
+
 pwd
